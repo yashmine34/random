@@ -5,8 +5,8 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I miss you too 😘 (SEMANGAT HARI SELASA)";
-  gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1cW5wMWhpaDF5b3pjdTF0OHZrcHJvaGkzOHJteDhmd245OGRnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif";
+  question.innerHTML = "I miss you too 😘 (Makan Es Pisang Ijo Enak Ni)";
+  gif.src = "https://tenor.com/id/view/mochi-mochimochi-gif-12521202085127665045.gif";
 });
 
 // Make the No button move randomly on hover
